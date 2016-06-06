@@ -7,7 +7,7 @@ import java.time.*;
 import java.time.format.DateTimeFormatter;
 import java.util.Scanner;
 
-public class dateDifference {
+public class DateDifference {
 
 	public static void main(String[] args) {
 		
